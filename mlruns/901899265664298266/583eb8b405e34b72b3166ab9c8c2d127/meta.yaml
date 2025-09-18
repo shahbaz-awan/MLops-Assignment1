@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/901899265664298266/583eb8b405e34b72b3166ab9c8c2d127/artifacts
+end_time: 1758216183002
+entry_point_name: ''
+experiment_id: '901899265664298266'
+lifecycle_stage: active
+run_id: 583eb8b405e34b72b3166ab9c8c2d127
+run_name: rf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758216179712
+status: 3
+tags: []
+user_id: shahb

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/901899265664298266/cd5963a4d0d5411b92f5a86d9b372cf4/artifacts
+end_time: 1758216176409
+entry_point_name: ''
+experiment_id: '901899265664298266'
+lifecycle_stage: active
+run_id: cd5963a4d0d5411b92f5a86d9b372cf4
+run_name: logreg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758216164972
+status: 3
+tags: []
+user_id: shahb
